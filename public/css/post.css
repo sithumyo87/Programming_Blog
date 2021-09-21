@@ -1,0 +1,8 @@
+img {width:100%;}
+.text-overlay {
+    width: 100%;
+    margin: 53% 0;
+    position: absolute;
+    z-index: 1;
+    font-size:18px;
+}
